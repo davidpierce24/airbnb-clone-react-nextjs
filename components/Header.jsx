@@ -9,7 +9,7 @@ import {
 import { useState } from 'react'
 import 'react-date-range/dist/styles.css'; // main style file
 import 'react-date-range/dist/theme/default.css'; // theme css file
-import { DateRangePicker } from 'react-date-range';
+import { DateRangePicker, DateRange } from 'react-date-range';
 import Router, { useRouter } from 'next/router';
 
 
@@ -43,7 +43,6 @@ function Header({ placeholder }) {
         });
     };
 
-    
 
     return (
         <header className='sticky top-0 z-50 grid grid-cols-3 bg-white shadow-md p-5 md:px-10'>
@@ -86,7 +85,7 @@ function Header({ placeholder }) {
 
             {searchInput && (
                 <div className='flex flex-col col-span-3 mx-auto mt-2'>
-                    <DateRangePicker 
+                    <DateRange
                         ranges={[selectionRange]} 
                         minDate={new Date()}
                         rangeColors={["#FD5B61"]}
