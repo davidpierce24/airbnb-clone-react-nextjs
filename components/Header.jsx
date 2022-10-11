@@ -51,13 +51,15 @@ function Header({ placeholder }) {
             <div 
                 onClick={() => Router.push('/')}
                 className='relative flex h-10 cursor-pointer my-auto'>
-                <Image 
+                {/* <Image 
                     src='https://links.papareact.com/qd3'
                     layout='fill'
                     objectFit='contain'
                     objectPosition='left'
                     alt='airbnb'
-                />
+                /> */}
+
+                <p className='font-bold text-[#FD5B61] text-3xl md:text-4xl italic'>Notbnb</p>
             </div>
 
             {/* middle */}
