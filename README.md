@@ -1,35 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screenshot 2022-10-11 134925](https://user-images.githubusercontent.com/103011750/195163952-ed8f3669-bf07-4b81-b8ef-696e4c4ec7c3.png)
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Airbnb Me - an AIrbnb clone built in React and Next.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This was a project I had a lot of fun with! I wanted to brush up on my react skills and learn about Next.js and the Mapbox API. Thanks to Sonny Sangha for the instruction!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Tools Used
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- React
+- Tailwind CSS
+- Mapbox API
+- Next.js
+- Vercel - for deployment
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### `Check it out here`
+[Airbnb Me](https://airbnb-clone-react-nextjs-zeta.vercel.app/)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# airbnb-clone-react-nextjs" 
+![Screenshot 2022-10-11 135003](https://user-images.githubusercontent.com/103011750/195164002-691341ac-888c-4e3b-901a-a0a0640ee17a.png)
+![Screenshot 2022-10-11 135102](https://user-images.githubusercontent.com/103011750/195164012-afc9b00d-c459-410d-9cad-8d6c33016fce.png)
+![Screenshot 2022-10-11 135039](https://user-images.githubusercontent.com/103011750/195164017-9251187e-76be-4637-a5f2-0fdf693f22f6.png)
