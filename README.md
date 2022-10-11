@@ -15,7 +15,7 @@ This was a project I had a lot of fun with! I wanted to brush up on my react ski
 - Vercel - for deployment
 
 ### `Check it out here`
-[Airbnb Me](https://airbnb-clone-react-nextjs-zeta.vercel.app/)
+[Airbnb Me](https://airbnb-clone-react-nextjs-phi.vercel.app/)
 
 ![Screenshot 2022-10-11 135003](https://user-images.githubusercontent.com/103011750/195164002-691341ac-888c-4e3b-901a-a0a0640ee17a.png)
 ![Screenshot 2022-10-11 135102](https://user-images.githubusercontent.com/103011750/195164012-afc9b00d-c459-410d-9cad-8d6c33016fce.png)
